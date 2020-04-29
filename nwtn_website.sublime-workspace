@@ -11,17 +11,9 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 4947,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/home.html",
-			"settings":
-			{
-				"buffer_size": 646,
+				"buffer_size": 6188,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -111,30 +103,52 @@
 	"expanded_folders":
 	[
 		"/C/Users/Conor/Desktop/nwtn.github.io",
-		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts",
-		"/C/Users/Conor/Desktop/nwtn.github.io/_posts"
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts",
+		"/C/Users/Conor/Desktop/nwtn.github.io/blog",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories"
 	],
 	"file_history":
 	[
-		"/C/Users/Conor/Desktop/nwtn.github.io/_config.yml",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts/2020-04-22-SPI-communication-between-Co-Processors.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts/home.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts/2020-04-22-life-at-a-startup.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories/career.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories/electronics.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts/2020-04-20-project-log-website.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts/2019-05-22-using-siteleaf.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories/tutorials.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories/projects.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories/C.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/contact_me_form.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts/2019-05-21-deploy-blog-using-devlopr-jekyll-and-github-pages.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/Gemfile",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories/guides.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/categories/jekyll.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/head.html",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts/default.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/github_star_button.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/tags/all.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/blog/index.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_sass/devlopr.scss",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/coding_activity.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/assets/css/custom-style.css",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/header.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/bower.json",
+		"/C/Users/Conor/Desktop/nwtn.github.io/app.json",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/footer.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_config.yml",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/blog_newsletter.html",
 		"/C/Users/Conor/Desktop/nwtn.github.io/assets/css/main.scss",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_sass/devlog.scss",
-		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/head.html",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_posts/2020-02-14-plugged-in.md",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/algolia_search.html",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_data/galleries/overview.yml",
-		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts/home.html",
-		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/coding_activity.html",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/author_skills.html",
 		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts/about-me.html",
 		"/C/Users/Conor/Desktop/nwtn.github.io/screenshot2.png",
 		"/C/Users/Conor/Desktop/nwtn.github.io/screenshot.png",
 		"/C/Users/Conor/Desktop/nwtn.github.io/about.md",
 		"/C/Users/Conor/Desktop/nwtn.github.io/about.html",
-		"/C/Users/Conor/Desktop/nwtn.github.io/assets/css/custom-style.css",
 		"/C/Users/Conor/Desktop/nwtn.github.io/CODE_OF_CONDUCT.md",
 		"/C/Users/Conor/Desktop/nwtn.github.io/assets/img/gamershub.png",
 		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Source/system_max32520.c",
@@ -207,7 +221,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -222,6 +236,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"guides",
+			"category",
+			"tag",
+			"tag_name",
+			"github.com/sujaykundu777/devlopr-jekyll",
+			"newsletter_footer",
+			"newsletter_fotter",
+			"makerwidget",
+			"maker-widget",
+			"hi, I am",
 			"support_footer",
 			"mce-EMAIL_footer",
 			"#mc-embedded-subscribe_footer",
@@ -251,7 +275,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -260,58 +284,28 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4947,
+						"buffer_size": 6188,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4947,
-								4947
+								2558,
+								2558
 							]
 						],
 						"settings":
 						{
+							"SL.13.region_keys":
+							[
+							],
 							"syntax": "Packages/YAML/YAML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1834.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_layouts/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 646,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								486,
-								486
-							]
-						],
-						"settings":
-						{
-							"SL.132.region_keys":
-							[
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 336.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
