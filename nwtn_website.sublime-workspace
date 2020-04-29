@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 4947,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/home.html",
+			"settings":
+			{
+				"buffer_size": 646,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: If Condition"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 364.0,
+		"history":
+		[
+			"install package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Conor/Desktop/nwtn.github.io",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/C/Users/Conor/Desktop/nwtn.github.io/_config.yml",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts/default.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/footer.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/blog_newsletter.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/assets/css/main.scss",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_sass/devlog.scss",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/head.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_posts/2020-02-14-plugged-in.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/algolia_search.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_data/galleries/overview.yml",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts/home.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/coding_activity.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_includes/author_skills.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/_layouts/about-me.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/screenshot2.png",
+		"/C/Users/Conor/Desktop/nwtn.github.io/screenshot.png",
+		"/C/Users/Conor/Desktop/nwtn.github.io/about.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/about.html",
+		"/C/Users/Conor/Desktop/nwtn.github.io/assets/css/custom-style.css",
+		"/C/Users/Conor/Desktop/nwtn.github.io/CODE_OF_CONDUCT.md",
+		"/C/Users/Conor/Desktop/nwtn.github.io/assets/img/gamershub.png",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Source/system_max32520.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Source/GCC/startup_max32520.S",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/system_max32520.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/gcr_regs.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/scan_spi.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/scan_spi.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/mxc_config.h",
+		"/C/Maxim/Firmware/MAX32520/Applications/EvKitExamples/Function_Times/Source/tmr.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/tmr.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/tmr_utils.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Source/heap.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/max32520.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/scan.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/scan_crypto.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/cipher.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/tpu_regs.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/cipher.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/scan_crypto.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/dma.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/ucl_aes_cmac.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/ucl_aes_cbc_mac.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/ucl_aes.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/ucl_aes_cbc.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/dma_regs.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/puf_regs.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/scan_msg_auth.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/scan_unit_auth.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/crc.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/spi.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/gpio.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/Boards/EvKit_V1/Source/board.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/gpio.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/Boards/Source/led.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/Boards/Include/led.h",
+		"/C/Maxim/Firmware/MAX32520/Applications/EvKitExamples/Hello_World/main.c",
+		"/C/Maxim/Firmware/MAX32520/Applications/EvKitExamples/Function_Times/Source/tmr_utils.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/spi17y.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/spi17y.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/spi.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/tmr_utils.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/tmr.c",
+		"/C/Maxim/Firmware/MAX32520/Applications/EvKitExamples/Function_Times/Source/spi17y.c",
+		"/C/Maxim/Firmware/MAX32520/Applications/EvKitExamples/SPI/main.c",
+		"/C/Maxim/Firmware/MAX32520/Applications/EvKitExamples/Function_Times/Source/spi.c",
+		"/C/Maxim/Firmware/MAX32520/Applications/EvKitExamples/Function_Times/Source/mxc_sys.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/scan_msg_auth.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/FreeRTOS/Source/portable/Keil/See-also-the-RVDS-directory.txt",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/ucl_stest.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/ucl_sha256.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/lighthouse_crypto.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/b163_os.h",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/UCL/include/ucl/b191_os.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Makefile",
+		"/C/Maxim/Firmware/MAX32520/Libraries/FreeRTOS-Plus/Demo/FreeRTOS_Plus_TCP_Minimal_Windows_Simulator/main.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/icc.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/lp.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Source/puf.c",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/flc.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/max32520.svd",
+		"/C/Maxim/Firmware/MAX32520/NDALibraries/SecureBootTools/script/build_application.sh",
+		"/C/Maxim/Firmware/MAX32520/Libraries/Boards/EvKit_V1/Include/board.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/Boards/EvKit_V1/board.mk",
+		"/C/Maxim/Firmware/MAX32520/Libraries/MAX32520PeriphDriver/Include/uart.h",
+		"/C/Maxim/Firmware/MAX32520/Libraries/CMSIS/Device/Maxim/MAX32520/Include/gpio_regs.h",
+		"/C/Users/Conor/c/project.yml",
+		"/C/Users/Conor/c/test/test_BlinkTask.c",
+		"/C/Users/Conor/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"support_footer",
+			"mce-EMAIL_footer",
+			"#mc-embedded-subscribe_footer",
+			"makerwidget",
+			"signup_scroll",
+			"form action method",
+			"footer",
+			"skills",
+			"weekly email",
+			"sujay",
+			"built by"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4947,
+								4947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1834.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"SL.132.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 296.0
+	},
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ceedling/Ceedling.sublime-build",
+	"project": "nwtn_website.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

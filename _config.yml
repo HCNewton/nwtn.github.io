@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Conor Newton
+subtitle: Embedded Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
@@ -11,83 +11,113 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
+    #- text: Gallery
+    #  url: /gallery
+    #- text: Shop
+    #  url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+    #- text: Styleguide
+    #  url: /styleguide
+    #- text: Get Started
+    #  url: /get-started
 
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Web Designer and Developer
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Conor Newton
+author_bio: Tech Enthusiast, Engineer, Traveller
+author_email: "newton2994@gmail.com"
+author_location: Northern Ireland
+author_website_url: "http://nwtn.xyz"
+typewrite-text: Hello, I'm Conor Newton, an Embbeded Software Engineer based in Belfast, Northern Ireland.
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Angoka
+              company_logo: "ANGOKA LOGO.png"
+              company_url: https://angoka.io
+              designation: Embedded Software Engineer
+              description: Working on IoT security systems 
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: MPPIglobal
+              company_logo: mppi.png
+              company_url: https://mppiglobal.com
+              designation: Software Engineer
+              description: Worked on data presentation systems
+              visibility: true
+            - company_name: Newcastle Univesity
+              company_logo: ncl.png
+              company_url: http://www.cando.ac.uk/
+              designation: Undergraduate Research Assistant
+              description: Worked on signal processing systems
+              visibility: true
+            - company_name: Long Lake Camp Adventures
+              company_logo: longlake.png
+              company_url: https://www.longlakecampadventures.com/
+              designation: Head Councillor
+              description: Worked on people systems
+              visibility: true
+            - company_name: Photon-Fire
+              company_logo: photon.png
+              company_url: http://www.photonfire.com/
+              designation: Placement Student
+              description: Worked on IoT systems
+              visibility: true
+            - company_name: Tyco
+              company_logo: tyco.png
+              company_url: https://www.tyco.com/
+              designation: Placement Student
+              description: Worked on security camera systems
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: ncl.png
+                college_name: Newcastle University
+                college_url: https://www.ncl.ac.uk/
+                college_degree: Electronic & Computer Engineering
+                description: Master of Engineering
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: ohlab.png
+                project_title: Interactive Projection Mapping
+                project_description: Collaboration with a graphic designer for interactive instalments
+                project_url: https://www.0hlab.com/
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: nwtn.PNG
+                project_title: Personal Website
+                project_description: A Personal website about myself, built with Jekyll. You're on it right now
+                project_url: https://nwtn.xyz
+                visibility: true
+              - project_thumbnail: strava.PNG
+                project_title: Belfast Marathon
+                project_description: Ritualist sadomasochism in the name of personal acheivment
+                project_url: https://www.strava.com/athletes/14452016
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+github_username:  HCNewton
+facebook_username: HCNewton
+linkedin_username: conor-newton
+#behance_username: johndoe
+#instagram_username: johndoe
+#medium_username: johndoe
+#telegram_username: johndoe
+#dribbble_username: johndoe
+#flickr_username: johndoe
 
 #for comments using disqus
-disqus_shortname: sujay-kundu
+#disqus_shortname: sujay-kundu
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: nwtn
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: newton2994@gmail.com
 
 # syntax highlighter
 markdown: kramdown
@@ -95,7 +125,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10
+google_analytics: UA-164796438-1
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
@@ -152,6 +182,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-algolia
   - jekyll-menus
+  - jekyll-target-blank
 
 
 # Exclude from processing.
