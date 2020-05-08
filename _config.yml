@@ -87,7 +87,7 @@ author_project_details:
               - project_thumbnail: nwtn.PNG
                 project_title: Personal Website
                 project_description: A Personal website about myself, built with Jekyll. You're on it right now
-                project_url: https://nwtn.xyz
+                project_url: https://nwtn.xyz/projects/2020/04/20/project-log-website/
                 visibility: true
               - project_thumbnail: strava.PNG
                 project_title: Belfast Marathon
