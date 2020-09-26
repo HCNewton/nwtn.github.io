@@ -2,15 +2,18 @@
 layout: post
 title: Project Log - Hex Formatter
 author: Conor Newton
-date: '2020-05-08 14:35:23 +0530'
+date: '2020-09-08 14:35:23 +0530'
 category:
         - projects
         - career
 summary: Ever find yourself working with Hex values and having to change the formatting of them between tools, calculators and programs?<br/>Me too.<br/>So I built myself a tool for it.
 thumbnail: hex_formatter.jpg
 ---
+<br/>
 
-8th May 2020: This week at work I've be working with CMAC and Chaskey funstions. In order to confirm that the functions are working as intended, I've been looking for online calculators and tools to compare results with. I work in a C space, where an array of unsigned characters (array of 8-bit or 1-byte indexes) are passed into the functions I'm working with. You commonly set-up these arrays like this:
+## 8th September 2020: 
+
+This week at work I've be working with CMAC and Chaskey funstions. In order to confirm that the functions are working as intended, I've been looking for online calculators and tools to compare results with. I work in a C space, where an array of unsigned characters (array of 8-bit or 1-byte indexes) are passed into the functions I'm working with. You commonly set-up these arrays like this:
 
 ```c
 #include <stdint.h>

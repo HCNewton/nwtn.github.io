@@ -37,19 +37,19 @@ author_work_experiences:
               company_logo: "ANGOKA LOGO.png"
               company_url: https://angoka.io
               designation: Embedded Software Engineer
-              description: Working on IoT security systems 
+              description: Working on embedded connected security systems 
               visibility: true
             - company_name: MPPIglobal
               company_logo: mppi.png
               company_url: https://mppiglobal.com
               designation: Software Engineer
-              description: Worked on data presentation systems
+              description: Worked on data engineering & presentation systems
               visibility: true
             - company_name: Newcastle Univesity
               company_logo: ncl.png
               company_url: http://www.cando.ac.uk/
               designation: Undergraduate Research Assistant
-              description: Worked on signal processing systems
+              description: Worked on ultra-low-power medical signal processing systems
               visibility: true
             - company_name: Long Lake Camp Adventures
               company_logo: longlake.png
@@ -67,7 +67,7 @@ author_work_experiences:
               company_logo: tyco.png
               company_url: https://www.tyco.com/
               designation: Placement Student
-              description: Worked on security camera systems
+              description: Worked on embedded security systems
               visibility: true
 
 author_education_details:
@@ -81,7 +81,7 @@ author_education_details:
 author_project_details:
               - project_thumbnail: ohlab.png
                 project_title: Interactive Projection Mapping
-                project_description: Collaboration with a graphic designer for interactive instalments
+                project_description: Collaboration with a graphic designer for interactive installations
                 project_url: https://www.0hlab.com/
                 visibility: true
               - project_thumbnail: nwtn.PNG
@@ -90,8 +90,8 @@ author_project_details:
                 project_url: https://nwtn.xyz/projects/2020/04/20/project-log-website/
                 visibility: true
               - project_thumbnail: strava.PNG
-                project_title: Belfast Marathon
-                project_description: Ritualist sadomasochism in the name of personal acheivment
+                project_title: Marathon Training
+                project_description: Ritualistic sadomasochism in the name of personal acheivment
                 project_url: https://www.strava.com/athletes/14452016
                 visibility: true
 
