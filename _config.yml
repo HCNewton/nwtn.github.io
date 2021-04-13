@@ -13,7 +13,7 @@ urls:
       url: /blog
     #- text: Gallery
     #  url: /gallery
-    #- text: Shop
+    #- text: Shopg
     #  url : /shop
     - text: Contact Me
       url : /contact
@@ -26,18 +26,18 @@ urls:
 
 author_logo: profile.png
 author: Conor Newton
-author_bio: Tech Enthusiast, Engineer, Traveller
+author_bio: Engineering Enthusiast, Endorphin Junkie, Adventurer
 author_email: "newton2994@gmail.com"
 author_location: Northern Ireland
 author_website_url: "https://nwtn.xyz"
-typewrite-text: Hello, I'm Conor Newton, an Embbeded Software Engineer based in Belfast, Northern Ireland.
+typewrite-text: Hello, I'm Conor Newton, an Embbeded Software Engineer
 
 author_work_experiences:
             - company_name: Angoka
               company_logo: "ANGOKA LOGO.png"
               company_url: https://angoka.io
               designation: Embedded Software Engineer
-              description: Working on embedded connected security systems 
+              description: Working on embedded connected Automotive security systems 
               visibility: true
             - company_name: MPPIglobal
               company_logo: mppi.png
@@ -79,18 +79,18 @@ author_education_details:
                 visibility: true
 
 author_project_details:
+              - project_thumbnail: networkfit_logo.jpeg
+                project_title: NetworkFit
+                project_description: A Start-up aiming to unite Gym Memberships under one platform. Think Deliveroo, Uber or Tinder; but for gyms
+                project_url: https://wearecatalyst.org/programmes/co-founders/
+                visibility: true
               - project_thumbnail: ohlab.png
                 project_title: Interactive Projection Mapping
                 project_description: Collaboration with a graphic designer for interactive installations
                 project_url: https://www.0hlab.com/
                 visibility: true
-              - project_thumbnail: nwtn.PNG
-                project_title: Personal Website
-                project_description: A Personal website about myself, built with Jekyll. You're on it right now
-                project_url: https://nwtn.xyz/projects/2020/04/20/project-log-website/
-                visibility: true
               - project_thumbnail: strava.PNG
-                project_title: Marathon Training
+                project_title: Ironman Triathlon Training
                 project_description: Ritualistic sadomasochism in the name of personal acheivment
                 project_url: https://www.strava.com/athletes/14452016
                 visibility: true
