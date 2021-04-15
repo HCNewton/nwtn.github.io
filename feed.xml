@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://nwtn.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://nwtn.xyz/" rel="alternate" type="text/html" /><updated>2021-04-15T17:40:49+00:00</updated><id>https://nwtn.xyz/feed.xml</id><title type="html">Conor Newton</title><subtitle>NWTN - The personal website of Conor Newton</subtitle><author><name>Conor Newton</name></author><entry><title type="html">Project Log - Catalyst Co-Founders Programme</title><link href="https://nwtn.xyz/projects/career/2021/01/17/co-founders-log/" rel="alternate" type="text/html" title="Project Log - Catalyst Co-Founders Programme" /><published>2021-01-17T04:50:23+00:00</published><updated>2021-01-17T04:50:23+00:00</updated><id>https://nwtn.xyz/projects/career/2021/01/17/co-founders-log</id><content type="html" xml:base="https://nwtn.xyz/projects/career/2021/01/17/co-founders-log/">&lt;h2 id=&quot;you-can-find-more-information-on-the-catalyst-co-founders-programme-here&quot;&gt;&lt;a href=&quot;https://wearecatalyst.org/programmes/co-founders/&quot;&gt;You can find more information on the Catalyst Co-Founders Programme here!&lt;/a&gt;&lt;/h2&gt;</content><author><name>Conor Newton</name></author><category term="[&quot;projects&quot;, &quot;career&quot;]" /><summary type="html">You can find more information on the Catalyst Co-Founders Programme here!</summary></entry><entry><title type="html">Article - NI Connections</title><link href="https://nwtn.xyz/career/2020/12/22/niconnection/" rel="alternate" type="text/html" title="Article - NI Connections" /><published>2020-12-22T05:08:23+00:00</published><updated>2020-12-22T05:08:23+00:00</updated><id>https://nwtn.xyz/career/2020/12/22/niconnection</id><content type="html" xml:base="https://nwtn.xyz/career/2020/12/22/niconnection/">&lt;h2 id=&quot;you-can-find-the-full-article-here&quot;&gt;&lt;a href=&quot;https://www.niconnections.com/Angoka&quot;&gt;You can find the full article here!&lt;/a&gt;&lt;/h2&gt;
+
+&lt;!-- blank line --&gt;
+&lt;figure class=&quot;video_container&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/33Kp3Wkc01Q&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+&lt;!-- blank line --&gt;
+
+&lt;h3 id=&quot;ni-connections&quot;&gt;NI Connections&lt;/h3&gt;
+&lt;p&gt;NI Connections in part with Invest NI ran a campaign interviewing returned NI diaspora in an effort to attract further diaspora back to NI.&lt;/p&gt;
+
+&lt;p&gt;After living in England, America and Australia for seven years I was pleasently surprised with the Northern Ireland I returned to and was happy to sit down for a talk with their team.&lt;/p&gt;
+
+&lt;p&gt;I did not expect to wake up one morning and find myself at the centre of their advertisment campaign.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/niconnect2.png&quot; alt=&quot;NI Connection Ad &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;</content><author><name>Conor Newton</name></author><category term="career" /><summary type="html">You can find the full article here!</summary></entry><entry><title type="html">Article - Tech Trailblazer</title><link href="https://nwtn.xyz/career/2020/09/07/plugged-in/" rel="alternate" type="text/html" title="Article - Tech Trailblazer" /><published>2020-09-07T09:05:23+00:00</published><updated>2020-09-07T09:05:23+00:00</updated><id>https://nwtn.xyz/career/2020/09/07/plugged-in</id><content type="html" xml:base="https://nwtn.xyz/career/2020/09/07/plugged-in/">&lt;h1 id=&quot;you-can-find-the-full-article-here&quot;&gt;&lt;a href=&quot;https://syncni.com/trailblazer/4716/tech-trailblazers-conor-newton&quot;&gt;You can find the full article here!&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Conor Newton&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Embedded Engineer, Angoka LTD&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; I studied at Newcastle University for five years, earning my Masters Degree in Electronic &amp;amp; Computer Engineering. During my time at University, I was fortunate to be involved in several work experiences and research projects, ranging from offshore oil rig sensors to life-changing seizure-preventing brain implants.&lt;/p&gt;
+
+&lt;p&gt;I was also a regular contributor to the University newspaper and I spent my summers working as a head counsellor at an Adventure Camp in America. Since graduating I have worked and lived across three different continents. In my previous position, I worked as a Data Engineer contractor for Mine sites across Australia and Papua New Guinea.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What does a typical day look like?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I could tell you a rough estimate of how my day goes, but the truth of it is that I don’t have typical days. We aren’t a big company with meetings to discuss the upcoming meetings and appointed times for everything on long drawn out schedules. We are a start-up, in the purest meaning of the term. Our advantage over larger companies is our ability to move quickly. So that is what we do. When what you are working on is constantly moving forward and so are you, you don’t find yourself having typical days - or boring ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are you currently working on?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Currently, I am working with a newly released ARM M4 core Microcontroller that features a hardware cryptographic accelerator, along with many other security features. I am investigating the potential viability of utilising the device within our security solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What inspired you to join this company in particular?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I moved back to Northern Ireland at the end of 2019. I knew I wanted to take my time and find a role that I was excited about. I wanted a role where I would be able to keep on learning and challenging myself on a daily basis. I spent five years at University earning my Masters degree in Electronics.&lt;/p&gt;
+
+&lt;p&gt;I had multiple placements and research experiences throughout this time. After I graduated, I had no desire to go straight into a graduate scheme and sign my life to a large company for a few years. Instead, I travelled around America and Australia. Ultimately, I had just turned 25 and felt like I was behind where I wanted to see myself in my career.&lt;/p&gt;
+
+&lt;p&gt;I knew that by working in a smaller start-up company where I would be held accountable for my own contributions, work effort and learning, would I be truly able to catch up to where I thought I should be - and grow beyond that point. I like to learn and I like to grow. Angoka sounded perfect for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you always want to work in this industry (tech)?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pretty much. I enjoyed Maths, Physics and Technology and Design at School. I had a fantastic GCSE Technology teacher that encouraged me to pursue an education in Electronics. After my GCSE’s I studied a Level 3 BTEC in Electronic &amp;amp; Electrical Engineering and then went on to Newcastle University.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s your favourite part about your work?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I love the technology I’m working on and the Cryptographic side of it. But for me, the make or break is the people you work with. You can love what you do, but if you don’t love the people you do it with then your heart can never truly be in it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What would you say to other people considering a job in this industry (tech)?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Do it. There are too many Javascript developers anyway. If you enjoy the application of low-level electronics, working with your hands, understanding the functions of the hardware within a processor, writing low-level code and wrapping your head around mind-blowing cryptographic processes - then go for it!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you see this technology impacting on our lives?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re mainly working on a solution for securing communications between networks of autonomous cars and the Internet of Everything. You can go on to any major news outlet right now and I can guarantee on the top page there will be a fear-mongering article about some vague security issue.&lt;/p&gt;
+
+&lt;p&gt;In reality, as more devices come online, wireless technology will be integrated into every aspect of our life. Security concerns will only become bigger and bigger. Angoka is aiming to help make this connected world a safer place.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who inspired you to work in this field?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There has never really has been someone who spurred my passion the whole way through my academic life. It comes from the advice and support of the people you meet along the way. The friends sat there beside you in the library at 3am, the lecturer who has a couple of suggestions for you. Trying to keep yourself motivated to do it is the real challenge - you have to want to do it for yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What do you consider to be the most important tech innovation or development in recent years?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Probably the transistor; the Internet is pretty cool too, though.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What tech gadget could you not live without?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Honestly, I could happily live without any of them. I love working in tech, but I believe a lot of us could all benefit from relying less on our interactions with technology in our day-to-day lives.&lt;/p&gt;</content><author><name>Conor Newton</name></author><category term="career" /><summary type="html">You can find the full article here!</summary></entry><entry><title type="html">Project Log - Website</title><link href="https://nwtn.xyz/projects/2020/04/20/project-log-website/" rel="alternate" type="text/html" title="Project Log - Website" /><published>2020-04-20T09:05:23+00:00</published><updated>2020-04-20T09:05:23+00:00</updated><id>https://nwtn.xyz/projects/2020/04/20/project-log-website</id><content type="html" xml:base="https://nwtn.xyz/projects/2020/04/20/project-log-website/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;20th-april-2020&quot;&gt;20th April 2020:&lt;/h2&gt;
+
+&lt;p&gt;The world is currently in lockdown with the Covid-19 virus. A plus side of the lockdown is that I now have a lot of extra time to pursue personal projects I have thought about for a while. Building myself a website seems like a great place to start!&lt;/p&gt;
+
+&lt;p&gt;I’ve previously helped someone build a website using Wix. It was a solid editor and a great tool, but there are a lot of layers of extraction from the raw editing of the website. I want something a bit more gritty and hands-on. I listen to the Podcast &lt;a href=&quot;https://darknetdiaries.com/&quot;&gt;Darknet Diaries&lt;/a&gt; by Jack Rhysider, he talks about fascinating Cyber Security scandals and hacks (I recommend giving it a listen). In one episode he talked about how he build himself a website using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jack mentioned that Jekyll provided a means of creating a lightweight website that is entirely HTML with no backends and databases to get in to. Now, I’m not too worried about anyone trying to get into the website, but what caught my attention was the fact that Jekyll allowed you to create a website completely from scratch, with a bit of ruby terminal magic and some Markdown, Liquid, HTML &amp;amp; CSS. You could even host the website through GitHub without having to pay a penny. I know absolutely nothing about this side or space of software development, so naturally, I thought it would be perfect to try something new.&lt;/p&gt;
+
+&lt;p&gt;I followed a few simple steps on the &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt; website, then watched a great &lt;a href=&quot;https://www.youtube.com/watch?v=T1itpPvFWHI&amp;amp;feature=emb_title&quot;&gt;youtube tutorial&lt;/a&gt; by the wizards &lt;a href=&quot;https://www.mikedane.com/&quot;&gt;Mike Dane&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I spent some time scouting for a theme that I liked and thought would work well with what I’m trying to achieve from this website.&lt;/p&gt;
+
+&lt;p&gt;I’m looking for something to mainly serve as a portfolio about myself, but I would also like to occasionally blog about personal projects, things I’ve learnt from work, and tutorials or guides.&lt;/p&gt;
+
+&lt;p&gt;I’ve gone with the &lt;a href=&quot;https://github.com/sujaykundu777/devlopr-jekyll&quot;&gt;developr-jekyll&lt;/a&gt; theme by &lt;a href=&quot;https://sujaykundu.com/#/&quot;&gt;Sunjay Kundu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;26th-september-2020&quot;&gt;26th September 2020:&lt;/h2&gt;
+
+&lt;p&gt;Updated some dummy articles and changed some pictures around. Starting to get to a stage where I would feel comfortable about acknowledging the website on LinkedIn and my CV.&lt;/p&gt;
+
+&lt;p&gt;Future plans are to change how the landing page looks on mobile. I’ve taken a few suggestions from my frontend friend about how to do this. I like the Neon Lights image a graphic designer friend made me, but frontend friend thinks they won’t play nicely with mobile. I might have to go with standard colour block images for mobile. I will play around with the CSS file a bit more and see what I can do.&lt;/p&gt;
+
+&lt;p&gt;Another concurrent plan is to create some actual posts and content for the site. In my current job, I am using some microcontrollers with interesting hardware peripherals called Physically Unclonable Functions or PUFs. So far I have worked with and practically implemented a Weak PUF and a Strong PUF. I think a comparative article around the practical function of both could be unique and interesting.&lt;/p&gt;</content><author><name>Conor Newton</name></author><category term="projects" /><summary type="html"></summary></entry></feed>
